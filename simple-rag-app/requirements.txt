@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+embed-anything
+python-multipart
+numpy
